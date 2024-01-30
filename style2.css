@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    text-decoration: line-through;
+}
+body{
+    background-color: rgb(48, 174, 176);
+}
+button{
+    background-color: blue;
+    color: azure;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: azure;
+    border: 2px solid black;
+}
+.dark{
+    background-color: black;
+    color: azure;
+}
+.light{
+    background-color:rgb(48, 174, 176);
+    color: black;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: bisque;
+    border-radius: 30%;
+    text-align: center;
+}
